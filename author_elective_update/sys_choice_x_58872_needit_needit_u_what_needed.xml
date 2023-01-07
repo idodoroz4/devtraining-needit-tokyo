@@ -100,7 +100,7 @@
             <label>R&amp;D 1</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>6</sequence>
+            <sequence>5</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-01-01 19:58:58</sys_created_on>
@@ -116,13 +116,29 @@
             <label>R&amp;D 2</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>7</sequence>
+            <sequence>6</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-01-01 19:58:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <value>r_d 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-07 09:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
